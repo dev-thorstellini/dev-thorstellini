@@ -11,6 +11,7 @@
 - 📫 How to reach me **Discord: thorstellini**
 
 # 💻 About my Project
+I'm currently developing a powerful, free PC tweaker called Flux Tweaker. This open source tool optimizes all aspects of system performance and maximizes performance. It covers a variety of areas (e.g. CPU, GPU; Memory, M&K, network optimizations and much more), and offers over 1500 optimizations. Flux Tweaker is particularly suitable for gamers, eSports enthusiasts and users of less powerful PCs/laptops.
 
 
 <h3 align="left">Connect with me:</h3>
